@@ -1,1 +1,2 @@
 spiinaker job
+spinnaker env
